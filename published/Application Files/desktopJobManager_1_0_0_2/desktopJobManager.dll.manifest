@@ -80,13 +80,13 @@
       <dsig:DigestValue>BQvIKlKgvMPioe45tx/AHQpqQRXtflRJggxkj+MHV4o=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="desktopJobManager.deps.json" size="14092">
+  <file name="desktopJobManager.deps.json" size="16858">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>YBxdc5dZLnrDzYgIkMxVpWtartO60VjbGZGG14IfMvo=</dsig:DigestValue>
+      <dsig:DigestValue>QRUdlbA8hx3BEmSxWq5I+xCBedObkVUvJp7grzI38Yk=</dsig:DigestValue>
     </hash>
   </file>
   <file name="desktopJobManager.dll" size="111616">
@@ -95,16 +95,16 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>yftCnDHNa6E3lJgrDOOaud9GcnCxZOAjttJwXynoWPg=</dsig:DigestValue>
+      <dsig:DigestValue>WyP0LgkodvXkjT/ZcwWElKIgtRqRUjRrENB+qmWmwqw=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="desktopJobManager.exe" size="120320">
+  <file name="desktopJobManager.exe" size="151040">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>e1hWhbVb0CaOH59iuTFmAIOS2EjTDClyztBhl01jKP8=</dsig:DigestValue>
+      <dsig:DigestValue>hQapYSlfOTFw+Q9mhrxTFcPQN8KC2Kw33FVDoxKRkDI=</dsig:DigestValue>
     </hash>
   </file>
   <file name="desktopJobManager.runtimeconfig.json" size="429">
@@ -215,6 +215,87 @@
       <dsig:DigestValue>oowlHf422IHp4kYuFxRBuLDsFW/j9FJgLJFJsbnv4Fs=</dsig:DigestValue>
     </hash>
   </file>
+  <file name="runtimes\linux-x64\native\SQLite.Interop.dll" size="2847016">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>fp8CjkWcvFrP58emiwalKsMmrPFdxfZf/SBShFNhA9A=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="runtimes\osx-x64\native\SQLite.Interop.dll" size="2048708">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>nauE42PMy3P9BQnerBGa31u43JzVPQ51LLzvltUTLDM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll" size="955256">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>8X/i6l+S+R+6OInDwZlU4vi19G4Z/GYFgp4i9/uZTCA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll" size="1023872">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>yZWTJGsP9SjC3ZbutMFgp+E0vA15mJ0HhGgqafEVaAM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="runtimes\win-arm64\native\sni.dll" size="174224">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>7xhFjE3Lk/a06sB+FYnPNFC/h48t1iP1009qDxsW5Xo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="runtimes\win-x64\native\sni.dll" size="160040">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>aHBcTvmrgY8pVqeOBfP+/OUBoUSHk7BztGEQvrSbR9Y=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="runtimes\win-x64\native\SQLite.Interop.dll" size="1763632">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>kwn7Kj8ybQ8sw/Krg3z9AuT4y2uSOzsr4mVZH9OPSWE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="runtimes\win-x86\native\sni.dll" size="136488">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>FEbWsm2kmlqfNmly+J9OI2+RaVXzHdw467liF8HKzpw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="runtimes\win-x86\native\SQLite.Interop.dll" size="1374512">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>g/My6pU1gU8Yvk7naGguzHcgeUrtwwZZ6xZeRiV6fK4=</dsig:DigestValue>
+    </hash>
+  </file>
   <file name="SharpCompress.dll" size="546304">
     <hash>
       <dsig:Transforms>
@@ -233,31 +314,13 @@
       <dsig:DigestValue>7+iUMbT8Ae8amaAJEgiQ8U/p6OQqf5zp4oy2zEDxxis=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="sni.dll" size="136488">
+  <file name="System.Data.SqlClient.dll" size="267136">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>FEbWsm2kmlqfNmly+J9OI2+RaVXzHdw467liF8HKzpw=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="SQLite.Interop.dll" size="1374512">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>g/My6pU1gU8Yvk7naGguzHcgeUrtwwZZ6xZeRiV6fK4=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="System.Data.SqlClient.dll" size="1023872">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>yZWTJGsP9SjC3ZbutMFgp+E0vA15mJ0HhGgqafEVaAM=</dsig:DigestValue>
+      <dsig:DigestValue>MEhlg3Y9xPg4PVw50tdHctlzHHqHTALt1dOljI84JJo=</dsig:DigestValue>
     </hash>
   </file>
   <file name="System.Data.SQLite.dll" size="389936">
