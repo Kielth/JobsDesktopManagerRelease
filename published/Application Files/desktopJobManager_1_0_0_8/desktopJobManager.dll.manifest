@@ -95,7 +95,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>3JI1GKEbKSr523HOKK7Gy8kZqjMSZIgrj3Vt8a8hx/s=</dsig:DigestValue>
+      <dsig:DigestValue>V+7+sjNOVFgodWr3hnsZJocv2EVM08SLPTrtIKkyJ0Q=</dsig:DigestValue>
     </hash>
   </file>
   <file name="desktopJobManager.exe" size="151040">
@@ -203,7 +203,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>YRhp2RNnwfBbrApoDFcbMazk5e8qUKQx6HfZxhgzZp0=</dsig:DigestValue>
+      <dsig:DigestValue>JQNLYd+CLNTU8qe/of86/7CciDaBtQ4oWXtfdwZi2AE=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Newtonsoft.Json.dll" size="723368">
